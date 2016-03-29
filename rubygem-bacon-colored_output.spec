@@ -4,7 +4,7 @@
 #
 Name     : rubygem-bacon-colored_output
 Version  : 1.0.1
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/bacon-colored_output-1.0.1.gem
 Source0  : https://rubygems.org/downloads/bacon-colored_output-1.0.1.gem
 Summary  : No detailed summary available
@@ -49,17 +49,12 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/bacon-colored_output-1.0.1.gem
-/usr/lib64/ruby/gems/2.2.0/doc/bacon-colored_output-1.0.1/ri/Bacon/ColoredOutput/cdesc-ColoredOutput.ri
-/usr/lib64/ruby/gems/2.2.0/doc/bacon-colored_output-1.0.1/ri/Bacon/ColoredOutput/color-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/bacon-colored_output-1.0.1/ri/Bacon/ColoredOutput/handle_requirement-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/bacon-colored_output-1.0.1/ri/Bacon/cdesc-Bacon.ri
-/usr/lib64/ruby/gems/2.2.0/doc/bacon-colored_output-1.0.1/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/bacon-colored_output-1.0.1/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/bacon-colored_output-1.0.1/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/bacon-colored_output-1.0.1/LICENSE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/bacon-colored_output-1.0.1/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/bacon-colored_output-1.0.1/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/bacon-colored_output-1.0.1/bacon-colored_output.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/bacon-colored_output-1.0.1/lib/bacon/colored_output.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/bacon-colored_output-1.0.1.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/bacon-colored_output-1.0.1.gem
+/usr/lib64/ruby/gems/2.3.0/gems/bacon-colored_output-1.0.1/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/bacon-colored_output-1.0.1/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/bacon-colored_output-1.0.1/LICENSE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/bacon-colored_output-1.0.1/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/bacon-colored_output-1.0.1/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/bacon-colored_output-1.0.1/bacon-colored_output.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/bacon-colored_output-1.0.1/lib/bacon/colored_output.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/bacon-colored_output-1.0.1.gemspec
