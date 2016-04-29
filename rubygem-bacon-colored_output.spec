@@ -4,7 +4,7 @@
 #
 Name     : rubygem-bacon-colored_output
 Version  : 1.0.1
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/bacon-colored_output-1.0.1.gem
 Source0  : https://rubygems.org/downloads/bacon-colored_output-1.0.1.gem
 Summary  : No detailed summary available
